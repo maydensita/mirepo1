@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<estudiantes>
+    <estudiante>
+        <nombre>Juan</nombre>
+        <edad>40</edad>
+        <nota asignatura="Diseño Web">8</nota>
+        <nota asignatura="Gestión de Proyectos"></nota>
+        <aprobado/>
+     </estudiante>
+     <estudiante>
+        <nombre>María</nombre>
+        <edad>25</edad>
+        <nota asignatura="Diseño Web">4</nota>
+        <nota asignatura="Gestión de Proyectos"></nota>
+        <aprobado/>
+     </estudiante>
+</estudiantes>
